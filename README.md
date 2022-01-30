@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Abu_ser</a> to ma
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Abu_ser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Maishook/Abu_ser-1)
 
 
 
